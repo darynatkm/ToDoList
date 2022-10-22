@@ -1,0 +1,45 @@
+html {
+    background: linear-gradient(#e66465, #9198e5);
+    /* background-repeat: no-repeat; */
+    height: 100%;
+    font-family: 'Lucida Sans Regular', Verdana, sans-serif
+}
+
+#taskList {
+    width: 30%;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    border-radius: 3%;
+    border: 2mm solid rgba(91, 5, 79, 0.6);    
+}
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+span {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+#task {
+    width: 300px;
+    height: 30px;
+}
+
+#submit {
+    height: 34px;
+    color: white;
+    background-color: rgba(91, 5, 79, 0.6);
+    border: #e66482;
+}
+
