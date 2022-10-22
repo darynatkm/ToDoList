@@ -1,4 +1,4 @@
-#Basic To-do List application 
+# Basic To-do List application 
 
 It was one of my milestone assignments within the JS Course. The following features are enabled: 
 - adding new tasks 
